@@ -1,0 +1,8 @@
+@keyframes shadowPulse {
+    0% {
+        box-shadow: 0 10px 20px rgba(224, 120, 50, 0.6);
+    }
+    100% {
+        box-shadow: 0 20px 40px rgb(235, 191, 96);
+    }
+}
